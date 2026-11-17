@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict pf5VdyvWEKgsd5uprA5p8Lg2WBgLx3eia0y7EVg7THeIzUqaaYz9gw6t3saVZ01
+\restrict RcEeJ1qTBbW2jyVic6GVkO9UqwXvGpBYddVTPiJk3K9yK7LQrG2nykEIarwPFcH
 
 -- Dumped from database version 15.19 (Debian 15.19-1.pgdg13+2)
 -- Dumped by pg_dump version 15.19 (Debian 15.19-1.pgdg13+2)
@@ -36840,5 +36840,5 @@ ALTER TABLE ONLY public.wizard_ir_model_menu_create
 -- PostgreSQL database dump complete
 --
 
-\unrestrict pf5VdyvWEKgsd5uprA5p8Lg2WBgLx3eia0y7EVg7THeIzUqaaYz9gw6t3saVZ01
+\unrestrict RcEeJ1qTBbW2jyVic6GVkO9UqwXvGpBYddVTPiJk3K9yK7LQrG2nykEIarwPFcH
 
